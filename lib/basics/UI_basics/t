@@ -1,0 +1,3 @@
+runApp 
+    => stateless matrial app (theme and home (routes and more)) 
+        =>  home / routes shuld be widget with scaffold -> app bar n stuff 
